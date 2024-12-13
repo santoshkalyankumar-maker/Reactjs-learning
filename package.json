@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "react2-personinfo",
+=======
+  "name": "react1-app",
+>>>>>>> cf43ad5c783a39eb1f1fdce0a0afd53b9bb6967d
   "version": "0.1.0",
   "private": true,
   "dependencies": {
